@@ -1,4 +1,4 @@
 # JavaScript
 my JavaScript notes
 ***
-[Variable](https://ethankclam.github.io/JavaScript/variable.html)
+[Variables](https://ethankclam.github.io/JavaScript/variable.html)
