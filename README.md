@@ -6,3 +6,5 @@ my JavaScript notes
 [Math operators](https://ethankclam.github.io/JavaScript/mathvar.html)
 
 [Comparison operators](https://ethankclam.github.io/JavaScript/compvar.html)
+
+[Logical operators](https://ethankclam.github.io/JavaScript/logicoper.html)
