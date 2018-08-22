@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Logical Operators</title>
+</head>
+<body>
+<p>whether "cat = cat" and "cat = mouse" are both true?</p>
+<p>Operator: &&</p>
+<p>Answer:</p>
+<p id="an"></p>
+<hr>
+<p>whether "cat = cat" or "cat = mouse" is true?</p>
+<p>Operator: ||</p>
+<p>Answer:</p>
+<p id="orr"></p>
+<hr>
+<p>whether "cat = cat" not "cat = mouse" is true?</p>
+<p>Operator: !</p>
+<p>Answer:</p>
+<p id="norr"></p>
+<script>
+var x = 'cat';
+var y = 'mouse';
+document.getElementById("an").innerHTML = 
+(x == x && x == y);
+document.getElementById("orr").innerHTML =
+(x == x || x == y);
+document.getElementById("norr").innerHTML = 
+!(x === x) 
+!(x == y);
+</script>
+</body>
+</html>
