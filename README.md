@@ -10,3 +10,5 @@ my JavaScript notes
 [Logical operators](https://ethankclam.github.io/JavaScript/logicoper.html)
 
 [If Else Statement](https://ethankclam.github.io/JavaScript/ifelse.html)
+
+[Switch Statement](https://ethankclam.github.io/JavaScript/switch.html)
