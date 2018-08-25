@@ -16,3 +16,5 @@ my JavaScript notes
 [For loop](https://ethankclam.github.io/JavaScript/for.html)
 
 [While loop](https://ethankclam.github.io/JavaScript/while.html)
+
+[Function](https://ethankclam.github.io/JavaScript/function.html)
