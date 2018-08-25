@@ -14,3 +14,5 @@ my JavaScript notes
 [Switch Statement](https://ethankclam.github.io/JavaScript/switch.html)
 
 [For loop](https://ethankclam.github.io/JavaScript/for.html)
+
+[While loop](https://ethankclam.github.io/JavaScript/while.html)
