@@ -12,3 +12,5 @@ my JavaScript notes
 [If Else Statement](https://ethankclam.github.io/JavaScript/ifelse.html)
 
 [Switch Statement](https://ethankclam.github.io/JavaScript/switch.html)
+
+[For loop](https://ethankclam.github.io/JavaScript/for.html)
