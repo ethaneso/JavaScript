@@ -18,3 +18,8 @@ my JavaScript notes
 [While loop](https://ethankclam.github.io/JavaScript/while.html)
 
 [Function](https://ethankclam.github.io/JavaScript/function.html)
+
+***
+Certificate:
+
+[Sololearn JavaScript Certificate](https://www.sololearn.com/Certificate/1024-7163891/pdf/)
