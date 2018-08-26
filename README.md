@@ -19,6 +19,8 @@ my JavaScript notes
 
 [Function](https://ethankclam.github.io/JavaScript/function.html)
 
+[Animation](https://ethankclam.github.io/JavaScript/animation.html)
+
 ***
 Certificate:
 
