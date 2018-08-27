@@ -17,6 +17,8 @@ my JavaScript notes
 
 [While loop](https://ethankclam.github.io/JavaScript/while.html)
 
+[Array](https://ethankclam.github.io/JavaScript/array.html)
+
 [Function](https://ethankclam.github.io/JavaScript/function.html)
 
 [Animation](https://ethankclam.github.io/JavaScript/animation.html)
