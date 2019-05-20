@@ -5,7 +5,7 @@ my JavaScript notes
 ***
 Objects:
 
-| [Ojbect](https://github.com/ethankclam/JavaScript/blob/master/Objects/Object.js) | [Access Object Properties](https://github.com/ethankclam/JavaScript/blob/master/Objects/accessjsobject.js) | [Method to Call Object Properties](https://github.com/ethankclam/JavaScript/blob/master/Objects/methodtocallproperties.js) | [This Keyword](https://github.com/ethankclam/JavaScript/blob/master/Objects/thiskeyword.js) |
+| [Ojbect](https://github.com/ethankclam/JavaScript/blob/master/Objects/Object.js) | [Object Properties](https://github.com/ethankclam/JavaScript/blob/master/Objects/accessjsobject.js) | [Object Method](https://github.com/ethankclam/JavaScript/blob/master/Objects/methodtocallproperties.js) | [This Keyword](https://github.com/ethankclam/JavaScript/blob/master/Objects/thiskeyword.js) |
 ***
 Certificate:
 
